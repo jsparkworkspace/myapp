@@ -25,7 +25,7 @@ public class App {
   private static Log log = LogFactory.getLog(App.class);
 
   public static void main(String[] args) throws Exception {
-    log.info("과제관리 시스템 서버 실행2!");
+    log.info("과제관리 시스템 서버 실행!");
     SpringApplication.run(App.class, args);
   }
 
